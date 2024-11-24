@@ -14,6 +14,8 @@
     </a>
 </p>
 
+**Archived** - Superseded by [Rikj000/Ruby-SVN2Git-Docker](https://github.com/Rikj000/Ruby-SVN2Git-Docker)
+
 Simple [Bash](https://www.gnu.org/software/bash/bash.html) script to convert local [SVN (Subversion)](https://subversion.apache.org/) repositories to local [Git](https://git-scm.com/) repositories!
 
 ## Dependencies
